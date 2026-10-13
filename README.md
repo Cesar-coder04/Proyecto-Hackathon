@@ -60,13 +60,13 @@ My work focused on processing hand positions and identifying the gestures requir
 1. Clone the repository:
 
    ```bash
-   git clone <YOUR_REPOSITORY_URL>
+   git clone https://github.com/Cesar-coder04/Proyecto-Hackathon.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd <YOUR_PROJECT_FOLDER>
+   cd Proyecto-Hackathon
    ```
 
 3. Create and activate a virtual environment (recommended):
@@ -96,10 +96,8 @@ My work focused on processing hand positions and identifying the gestures requir
 5. Run the application's main Python script:
 
    ```bash
-   python <MAIN_SCRIPT>.py
+   python Llamadainicial.py
    ```
-
-   Replace `<MAIN_SCRIPT>.py` with the actual entry-point filename.
 
 ## ⚠️ Current Limitations
 
