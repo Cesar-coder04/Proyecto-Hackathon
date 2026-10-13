@@ -9,7 +9,7 @@ This project was developed during **CIBERGU 2024**, a technology and cybersecuri
 
 **1st Prize — CIBERGU 2024 Hackathon (€2,000)**
 
-Our team, **Bug Buster**, won first place in the CIBERGU 2024 Hackathon. The team was led by César Nicolás and included Pablo Menéndez, Daniel Monje, and David Vargas.
+Our team, **Bug Buster**, won first place in the CIBERGU 2024 Hackathon. The team was led by César Nicolás, Pablo Menéndez, Daniel Monje, and David Vargas.
 
 The event was organized with the involvement of the **National Cybersecurity Institute of Spain (INCIBE)** and **CEEI Guadalajara**.
 
