@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Planespremium</class>
+ <widget class="QWidget" name="Planespremium">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1172</width>
+    <height>649</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Planes Premium</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(30,30,30);</string>
+  </property>
+  <widget class="QLabel" name="label_tarifas">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1172</width>
+     <height>571</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap>traductor_de_gestos\images\tarifas.png</pixmap>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_pro">
+   <property name="geometry">
+    <rect>
+     <x>300</x>
+     <y>563</y>
+     <width>275</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 600 22pt &quot;Goudy Old Style&quot;;
+background-color: rgb(94, 94, 94);
+color: rgb(255, 255, 255);
+</string>
+   </property>
+   <property name="text">
+    <string>AMPLIAR PLAN</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>30</width>
+     <height>30</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_enterprise">
+   <property name="geometry">
+    <rect>
+     <x>585</x>
+     <y>563</y>
+     <width>275</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 600 22pt &quot;Goudy Old Style&quot;;
+background-color: rgb(94, 94, 94);
+color: rgb(255, 255, 255);
+</string>
+   </property>
+   <property name="text">
+    <string>AMPLIAR PLAN</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>30</width>
+     <height>30</height>
+    </size>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_enterprise_pro">
+   <property name="geometry">
+    <rect>
+     <x>868</x>
+     <y>563</y>
+     <width>285</width>
+     <height>45</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">font: 600 22pt &quot;Goudy Old Style&quot;;
+background-color: rgb(94, 94, 94);
+color: rgb(255, 255, 255);
+</string>
+   </property>
+   <property name="text">
+    <string>AMPLIAR PLAN</string>
+   </property>
+   <property name="iconSize">
+    <size>
+     <width>30</width>
+     <height>30</height>
+    </size>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
